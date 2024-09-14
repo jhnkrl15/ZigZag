@@ -1,0 +1,15 @@
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\bin\Debug\net8.0\BookApi.Application.deps.json
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\bin\Debug\net8.0\BookApi.Application.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\bin\Debug\net8.0\BookApi.Application.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\bin\Debug\net8.0\BookApi.Domain.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\bin\Debug\net8.0\BookApi.Domain.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.csproj.AssemblyReference.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.AssemblyInfoInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.AssemblyInfo.cs
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi..192C3A41.Up2Date
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\refint\BookApi.Application.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\BookApi.Application.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Application\obj\Debug\net8.0\ref\BookApi.Application.dll

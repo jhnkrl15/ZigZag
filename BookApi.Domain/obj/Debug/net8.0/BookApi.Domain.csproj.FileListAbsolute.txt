@@ -1,0 +1,11 @@
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\bin\Debug\net8.0\BookApi.Domain.deps.json
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\bin\Debug\net8.0\BookApi.Domain.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\bin\Debug\net8.0\BookApi.Domain.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.AssemblyInfoInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.AssemblyInfo.cs
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\refint\BookApi.Domain.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\BookApi.Domain.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Domain\obj\Debug\net8.0\ref\BookApi.Domain.dll

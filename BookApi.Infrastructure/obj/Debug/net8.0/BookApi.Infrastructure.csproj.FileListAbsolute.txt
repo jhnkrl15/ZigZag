@@ -1,0 +1,17 @@
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Infrastructure.deps.json
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Infrastructure.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Infrastructure.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Application.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Domain.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Domain.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\bin\Debug\net8.0\BookApi.Application.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.AssemblyInfo.cs
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi..E5A2193C.Up2Date
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\refint\BookApi.Infrastructure.dll
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\BookApi.Infrastructure.pdb
+C:\Users\john.karl.o.matencio\Projects\BookApi.Infrastructure\obj\Debug\net8.0\ref\BookApi.Infrastructure.dll
